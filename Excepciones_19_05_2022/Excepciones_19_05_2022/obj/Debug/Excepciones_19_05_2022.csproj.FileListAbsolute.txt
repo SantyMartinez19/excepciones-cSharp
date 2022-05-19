@@ -1,0 +1,8 @@
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\bin\Debug\Excepciones_19_05_2022.exe.config
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\bin\Debug\Excepciones_19_05_2022.exe
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\bin\Debug\Excepciones_19_05_2022.pdb
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\obj\Debug\Excepciones_19_05_2022.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\obj\Debug\Excepciones_19_05_2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\obj\Debug\Excepciones_19_05_2022.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\obj\Debug\Excepciones_19_05_2022.exe
+C:\Users\santy\source\repos\Excepciones_19_05_2022\Excepciones_19_05_2022\obj\Debug\Excepciones_19_05_2022.pdb
